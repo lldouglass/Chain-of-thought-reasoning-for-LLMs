@@ -1,0 +1,4 @@
+# requirements.txt
+torch>=2.2
+transformers>=4.40
+nbformat>=5.10      # <-- add this line
